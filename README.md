@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com/?lines=Hi!+%F0%9F%91%8B+I%27m%20Alok%20Anand.%20I%27m%20a%20Software%20Developer
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+👋+I'm+Alok+Anand+💻;I+am+a+Software+Developer+⚡)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ialokanand289&label=Profile%20views&color=0e75b6&style=flat" alt="ialokanand289" /> </p>
 
